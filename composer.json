@@ -41,6 +41,9 @@
         "aliases": {
           "Identify": "Unicodeveloper\\Identify\\Facades\\IdentifyFacade"
         }
-      }
+      },
+      "branch-alias": {
+	      "dev-master": "1.7.x-dev"
+	  }
     }
 }
