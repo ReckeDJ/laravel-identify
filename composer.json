@@ -27,7 +27,7 @@
    },
    "autoload-dev": {
         "psr-4": {
-            "Unicodeveloper\\Identify\\Test\\": "tests"
+            "Unicodeveloper\\Identify\\Test\\": "tests/"
         }
     },
     "scripts": {
